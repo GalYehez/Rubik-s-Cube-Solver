@@ -1,2 +1,2 @@
-# Rubik-s-Cube-Solver
-Rubik's Cube Solver in Java, using search algorithms: BFD, DFS, A*, UCS.
+# CubeCraft
+Mastering the Rubik's Cube solver employing advanced search algorithms for optimal solutions.
